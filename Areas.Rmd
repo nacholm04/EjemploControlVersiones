@@ -15,3 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 r<-2
 A<-pi*r^2
 ```
+
+## Área de un cuadrado
+
+```{r}
+l<-2
+A<-l^2
+```
