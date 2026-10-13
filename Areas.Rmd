@@ -22,3 +22,19 @@ A<-pi*r^2
 l<-2
 A<-l^2
 ```
+
+## Área de un triangulo
+
+```{r}
+b<-2
+h<-3
+A<-b*h/2
+```
+
+## Área de un rectangulo
+
+```{r}
+a<-2
+b<-3
+A<-a*b
+```
