@@ -1,0 +1,17 @@
+---
+title: "Área de un círculo"
+author: "Nacho Lacruz"
+date: "2026-10-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Área de un círculo
+
+```{r}
+r<-2
+A<-pi*r^2
+```
